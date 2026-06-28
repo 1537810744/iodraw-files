@@ -78,7 +78,7 @@
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-51" target="ZnqNG_EY9r5PcNX-RRkP-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-58" value="手动操作（两个按键，如果只卖出，不买入，那就是空仓）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-57">
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-58" value="手动操作（一个Ranked list列表，显示基差， 一个输入框和杠杆（不能超过5），两个按键，如果只卖出，不买入，那就是空仓）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-57">
           <mxGeometry x="0.1739" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
