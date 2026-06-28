@@ -52,6 +52,9 @@
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-24" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="541" y="150" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-27" value="Binance API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
