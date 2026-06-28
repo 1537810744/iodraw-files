@@ -75,7 +75,7 @@
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-35" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Manual Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-51" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-51" value="用户根据账户概况以及优质资产排行榜" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-10" target="ZnqNG_EY9r5PcNX-RRkP-10">
