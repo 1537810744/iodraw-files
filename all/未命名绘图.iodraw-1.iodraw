@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1283" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -78,7 +78,7 @@
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-51" target="ZnqNG_EY9r5PcNX-RRkP-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-58" value="手动操作（一个Ranked list列表，显示基差， 一个输入框和杠杆（不能超过5），两个按键，如果只卖出，不买入，那就是空仓）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-57">
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-58" value="手动操作（一个当前持仓列表， 一个Ranked list列表，显示基差， 一个输入框和杠杆（不能超过5），两个按键，如果只卖出，不买入，那就是空仓）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-57">
           <mxGeometry x="0.1739" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
