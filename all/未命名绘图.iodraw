@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z5cjMd0MEZ7G1iy9hMUw-1" value="Binance API" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="58" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-6" target="ZnqNG_EY9r5PcNX-RRkP-10">
           <mxGeometry relative="1" as="geometry" />
@@ -24,13 +24,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-6" value="Raw List" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="58" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-10" value="Ranked List" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="521" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="521" y="58" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-19" value="Binance API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="176" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
