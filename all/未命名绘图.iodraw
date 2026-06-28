@@ -89,8 +89,14 @@
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-10" target="ZnqNG_EY9r5PcNX-RRkP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZnqNG_EY9r5PcNX-RRkP-56" target="ZnqNG_EY9r5PcNX-RRkP-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZnqNG_EY9r5PcNX-RRkP-56" value="卖出所选资产&lt;div&gt;买入优质排行榜的资产&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-59" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
