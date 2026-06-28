@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-37" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; white-space: normal;&quot;&gt;Manual Action&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-36">
+        <mxCell id="ZnqNG_EY9r5PcNX-RRkP-37" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; white-space: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;Manual Action&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZnqNG_EY9r5PcNX-RRkP-36">
           <mxGeometry x="0.138" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
